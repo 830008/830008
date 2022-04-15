@@ -1,13 +1,5 @@
 ### Hi there 👋
+I'm 830008, and I'd like to collaborate on anything, I know javascript and lua, and would love to get to know anybody, and work on projects with them.
+To contact me, you could call me +1(219)-232-8026, or email me: 830008x@gmail.com.
 
-
-
-
-
-
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Python and Lua
-- 👯 I’m looking to collaborate on Javascript
-- 🤔 I’m looking for help with Python and Lua
-- 💬 Ask me about Javascript
-- 📫 How to reach me: 830008x@gmail.com
+My portfolio is basically this account, but I am working on some volunteer commisions, one of them is for FlyHaven.
